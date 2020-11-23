@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Sample</string>
+    <string name="no_network_connectivity">No Network Connectivity</string>
+    <string name="user_region">Country Region :</string>
+    <string name="user_currency">Country Currency</string>
+    <string name="user_sub_region">Country SubRegion :</string>
+    <string name="user_language">Country Languages :</string>
+    <string name="user_capital">Country Capital</string>
+</resources>
